@@ -48,5 +48,3 @@ Contributions are welcome! Feel free to open issues or submit pull requests:
 ## 📜 License
 
 © 2025 Ayush Rewatkar. All rights reserved.
-
-```

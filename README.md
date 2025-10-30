@@ -1,15 +1,3 @@
-Here you go, Ayush — a **short repo description** and a full **README** for your Deep_Learning_Projects GitHub repository, ready to use or tweak as you like!
-
----
-
-### 🔹 GitHub Repo Description
-
-“🧠 Beginner-friendly deep learning projects using TensorFlow & PyTorch — explore data preprocessing, model building and evaluation.”
-
----
-
-### 📄 README.md
-
 ```markdown
 # 🧠 Deep Learning Projects
 

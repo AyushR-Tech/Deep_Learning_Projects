@@ -14,26 +14,6 @@ Perfect for learning core concepts like data preprocessing, model training, eval
 
 ---
 
-## 📁 Project Structure
-```
-
-Deep_Learning_Projects/
-│
-├── LAB Assignment/
-│   └── Ayush_Rewatkar_DeepLearningLabAssignment_1.ipynb
-│
-├── MINI PROJECT/
-│   └── Titanic-Dataset.csv
-│
-├── Explainable AI/
-│   └── [notebooks for model explainability]
-│
-└── README.md
-
-````
-
----
-
 ## 🎯 How to Get Started
 1. Clone the repo:  
    ```bash
@@ -69,10 +49,4 @@ Contributions are welcome! Feel free to open issues or submit pull requests:
 
 © 2025 Ayush Rewatkar. All rights reserved.
 
-```
-
----
-
-If you like, I can also generate **topic tags** and a short “About” paragraph tailored for GitHub. Do you want that?
-::contentReference[oaicite:1]{index=1}
 ```
